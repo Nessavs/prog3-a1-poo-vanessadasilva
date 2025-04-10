@@ -26,7 +26,7 @@ http://localhost:8080
 
 ![image](https://github.com/user-attachments/assets/46ece879-6420-453a-8940-234fe2040089)
 
-telas básicas e símples:
+telas básicas e simples:
 
 ![image](https://github.com/user-attachments/assets/9f4670e7-5c5b-4d35-8631-e5e349972137)
 ![image](https://github.com/user-attachments/assets/e6379e1d-f598-4400-9ecb-a3efb2cbafb4)
