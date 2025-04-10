@@ -9,7 +9,7 @@ Descrição: Desenvolver uma aplicação web utilizando apenas PHP puro, estrutu
 a objetos (POO), que permita o registro e autenticação de usuários com persistência de
 sessão e cookies, utilizando boas práticas de programação e organização de código.
 
-Instrução para executar localmente: precisa ter as dependencias instaladas e rodar, aém de clonar o repositório:
+Instrução para executar localmente: precisa ter as dependencias instaladas e rodar, além de clonar o repositório:
 
 ```bash
 docker-compose up --build
